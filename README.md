@@ -2,6 +2,16 @@
 
 > Notes regarding HTTP Fundamentals, HTTPS and REST services.
 
+* [O que é HTTP](#o-que-e-http)
+** [Relação Cliente - Servidor](#relacao-cliente-servidor)
+** [Diferentes protocolos](#diferentes-protocolos)
+** [Exemplo de arquitetura](#exemplo-de-arquitetura)
+* [HTTPS](#https)
+** [Identidade](#identidade)
+
+---
+
+
 ## O que é HTTP
 
 * HTTP: Sigla/Abreviação para Hypertext Transfer Protocol.
@@ -9,7 +19,7 @@
 * O HTTP é um protocolo que define um conjunto de regras que faz essa relaçao Cliente - Servidor acontecer. Logo, o protocolo HTTP segue o modelo `Client - Server`.
 * Relação Navegador - Internet - Servidor. (Cliente - Servidor)
 
-### Relação Cliente - Servidor
+### Relação Cliente Servidor
 
 * O Servidor devolveu uma resposta? Meu navegador tem que tratar isso.
 * Ou seja, o HTTP estabelece as regras que existirão entre os dois lados.
