@@ -3,11 +3,11 @@
 > Notes regarding HTTP Fundamentals, HTTPS and REST services.
 
 * [O que é HTTP](#o-que-e-http)
-** [Relação Cliente - Servidor](#relacao-cliente-servidor)
-** [Diferentes protocolos](#diferentes-protocolos)
-** [Exemplo de arquitetura](#exemplo-de-arquitetura)
+  * [Relação Cliente - Servidor](#relacao-cliente-servidor)
+  * [Diferentes protocolos](#diferentes-protocolos)
+  * [Exemplo de arquitetura](#exemplo-de-arquitetura)
 * [HTTPS](#https)
-** [Identidade](#identidade)
+  * [Identidade](#identidade)
 
 ---
 
