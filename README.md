@@ -1,6 +1,6 @@
 # Learning HTTP Fundamentals
 
-> Notes regarding course about HTTP Fundamentals, HTTPS and REST services.
+> Notes regarding HTTP Fundamentals, HTTPS and REST services.
 
 ## O que é HTTP
 
